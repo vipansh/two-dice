@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/two-dice/static/css/main.99836fd6.chunk.css",
+    "main.js": "/two-dice/static/js/main.55d16708.chunk.js",
+    "main.js.map": "/two-dice/static/js/main.55d16708.chunk.js.map",
+    "runtime-main.js": "/two-dice/static/js/runtime-main.c2f704fd.js",
+    "runtime-main.js.map": "/two-dice/static/js/runtime-main.c2f704fd.js.map",
+    "static/js/2.f957d51d.chunk.js": "/two-dice/static/js/2.f957d51d.chunk.js",
+    "static/js/2.f957d51d.chunk.js.map": "/two-dice/static/js/2.f957d51d.chunk.js.map",
+    "index.html": "/two-dice/index.html",
+    "precache-manifest.df1e5e4437807caa95601a89cfeeac89.js": "/two-dice/precache-manifest.df1e5e4437807caa95601a89cfeeac89.js",
+    "service-worker.js": "/two-dice/service-worker.js",
+    "static/css/main.99836fd6.chunk.css.map": "/two-dice/static/css/main.99836fd6.chunk.css.map",
+    "static/js/2.f957d51d.chunk.js.LICENSE.txt": "/two-dice/static/js/2.f957d51d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2f704fd.js",
+    "static/js/2.f957d51d.chunk.js",
+    "static/css/main.99836fd6.chunk.css",
+    "static/js/main.55d16708.chunk.js"
+  ]
+}
